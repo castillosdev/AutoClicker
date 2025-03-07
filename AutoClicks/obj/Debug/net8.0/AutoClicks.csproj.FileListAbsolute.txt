@@ -1,0 +1,14 @@
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\bin\Debug\net8.0\AutoClicks.exe
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\bin\Debug\net8.0\AutoClicks.deps.json
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\bin\Debug\net8.0\AutoClicks.runtimeconfig.json
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\bin\Debug\net8.0\AutoClicks.dll
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\bin\Debug\net8.0\AutoClicks.pdb
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\obj\Debug\net8.0\AutoClicks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\obj\Debug\net8.0\AutoClicks.AssemblyInfoInputs.cache
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\obj\Debug\net8.0\AutoClicks.AssemblyInfo.cs
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\obj\Debug\net8.0\AutoClicks.csproj.CoreCompileInputs.cache
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\obj\Debug\net8.0\AutoClicks.dll
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\obj\Debug\net8.0\refint\AutoClicks.dll
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\obj\Debug\net8.0\AutoClicks.pdb
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\obj\Debug\net8.0\AutoClicks.genruntimeconfig.cache
+C:\Users\lcastillo\source\repos\AutoClicks\AutoClicks\obj\Debug\net8.0\ref\AutoClicks.dll
